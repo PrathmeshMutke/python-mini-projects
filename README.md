@@ -13,7 +13,7 @@
 ![Stars](https://img.shields.io/github/stars/chavarera/python-mini-projects)
 ![License](https://img.shields.io/github/license/chavarera/python-mini-projects)
 
-A collection of simple python mini projects to enhance your Python skills.
+A collection of simple python mini projects to enhance and build your Python skills.
 
 If you want to learn about python, visit [here.](https://github.com/Python-World/PythonScript)
 
@@ -85,7 +85,7 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
 
 [README Template](https://github.com/Python-World/python-mini-projects/blob/master/README_TEMPLATE.md)
 
-## Connect On Social media
+## Connect On Social media platforms
 
 [Join WhatsApp group](https://chat.whatsapp.com/Ghp25kidWLaGrAVA0G0GAa)
 
