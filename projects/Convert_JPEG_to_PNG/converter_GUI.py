@@ -1,4 +1,4 @@
-import tkinter as tk
+import tkinter as tk #tkinter is imported
 from tkinter import filedialog
 from PIL import Image
 root = tk.Tk()   # Tkinter window initialized
